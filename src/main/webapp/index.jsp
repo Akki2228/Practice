@@ -1,5 +1,5 @@
 <html>
-	<head>facebook</head>
+	<head>College</head>
 	<body>
 <h1>Hey</h1>
 	</body>
